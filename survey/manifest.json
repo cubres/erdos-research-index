@@ -1,0 +1,32 @@
+[
+  {
+    "path": "survey/README-2026-09-14.md",
+    "bytes": 2293,
+    "sha256": "f739b27cf306e84d3337012572c9eba34142856ff0a89d116abbdb4c6f810385"
+  },
+  {
+    "path": "survey/ranked.csv",
+    "bytes": 171083,
+    "sha256": "26f1f16a0a31edef896a3a1433209e2ec638369324d877e5dcb9c3a0e6a5e769"
+  },
+  {
+    "path": "survey/openish.csv",
+    "bytes": 38556,
+    "sha256": "51e8c7edf5bf4d74f744fd5884675112eca032ada5631859ae4b775bff382e1d"
+  },
+  {
+    "path": "survey/fme_list.txt",
+    "bytes": 243,
+    "sha256": "d335c9191f30ed84cbc437d13e3300f35990a0603c645dfa0366d8e3ee9c28bb"
+  },
+  {
+    "path": "survey/ai_touched.txt",
+    "bytes": 1680,
+    "sha256": "9de0739e286f112b968a4598e374f491ec7f789acefe8071b40d4af8677c01a7"
+  },
+  {
+    "path": "survey/parse_pages.py",
+    "bytes": 2376,
+    "sha256": "3db025c87efc6f74ace4d532b68a2e8d855210e62ef90930bc0c66ac03af2d05"
+  }
+]
